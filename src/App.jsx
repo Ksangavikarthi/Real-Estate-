@@ -8,7 +8,7 @@ import Residence from './Components/Residence';
 import Review from './Components/Review';
 import Pagination from './Components/Pagination';
 import Validation from './Components/Validation';
-import Footer from './Components/footer';
+import Footer from './Components/Footer.jsx';
 
 function App() {
 
