@@ -1,0 +1,23 @@
+
+.logos{
+    width:100%;
+    height:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color:rgb(168, 164, 157) ;
+    padding: 40px;
+}
+.logo{
+    border: 1px ;
+    border-radius: 15px;
+    opacity: 0.3;
+}
+.logo:hover{
+    transform:scale(120%) rotate(360deg);
+    transition: 0.5s;
+    opacity: 1;
+    border-radius: 50%;
+}
+
